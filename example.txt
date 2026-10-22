@@ -1,1 +1,1 @@
-hey this is an example text used for this introduction to git assignment.
+First version
